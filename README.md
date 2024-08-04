@@ -1,4 +1,4 @@
-## 👋 ¡Bienvenido al repositorio de documentación del servidor Gauss! 🏫 🇨🇴
+## 👋 ¡Bienvenido al repositorio de documentación del servidor Gauss! 🏫
 
 Este repositorio alberga la documentación del **servidor Gauss**, un nodo de
 computación construido en conjunto por la Escuela de Matemáticas y la Escuela de
